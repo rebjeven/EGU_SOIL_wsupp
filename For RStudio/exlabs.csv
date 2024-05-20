@@ -1,0 +1,98 @@
+Site,Site1,Lab,pct_TC,pct_SOC,pct_SIC,sample_state
+I,B,CSU,3.38,2.87,0.51,field moist
+I,B,CSU,2.75,2.13,0.62,field moist
+I,B,CSU,3.5,3.1,0.4,field moist
+I,B,CSU,2.73,2.06,0.67,field moist
+I,B,CSU,3.21,2.6,0.61,field moist
+II,C,CSU,1.37,1.37,0,field moist
+II,C,CSU,1.35,1.35,0,field moist
+II,C,CSU,1.37,1.37,0,field moist
+II,C,CSU,1.27,1.27,0,field moist
+II,C,CSU,1.17,1.17,0,field moist
+III,J,CSU,3.13,3.13,0,field moist
+III,J,CSU,3.53,3.53,0,field moist
+III,J,CSU,3.35,3.35,0,field moist
+III,J,CSU,3.31,3.31,0,field moist
+III,J,CSU,3.16,3.16,0,field moist
+IV,H,CSU,7.27,2.62,4.65,field moist
+IV,H,CSU,7.17,1.77,5.4,field moist
+IV,H,CSU,7.18,2.72,4.47,field moist
+IV,H,CSU,7.19,1.95,5.24,field moist
+IV,H,CSU,7.22,2.66,4.56,field moist
+V,D,CSU,1.63,0.78,0.85,field moist
+V,D,CSU,1.69,0.82,0.87,field moist
+V,D,CSU,1.69,0.85,0.84,field moist
+V,D,CSU,1.78,0.9,0.88,field moist
+V,D,CSU,1.73,0.89,0.85,field moist
+I,B,I,3.67,3.22,0.45,air-dried
+I,B,I,4.07,3.21,0.86,field moist
+II,C,I,1.27,1.25,0.02,air-dried
+II,C,I,1.43,1.27,0.16,field moist
+III,J,I,3.37,3.28,0.09,air-dried
+III,J,I,3.37,3.36,0.01,field moist
+IV,H,I,6.75,3.74,3.01,air-dried
+V,D,I,1.66,0.83,0.83,field moist
+V,D,I,1.55,0.83,0.72,air-dried
+I,B,II,2.604,2.063,0.54,air-dried
+I,B,II,2.733,2.453,0.28,field moist
+II,C,II,1.107,0.892,0.22,air-dried
+II,C,II,1.36,1.042,0.32,field moist
+III,J,II,7.567,3.447,4.12,air-dried
+III,J,II,2.949,2.885,0.06,field moist
+IV,H,II,2.978,2.912,0.07,air-dried
+V,D,II,1.427,0.828,0.6,field moist
+V,D,II,1.445,0.774,0.67,air-dried
+I,B,III,4.52,4.07,0.46,air-dried
+I,B,III,2.63,2.62,0.01,field moist
+II,C,III,1.32,1.24,0.08,air-dried
+II,C,III,1.21,1.15,0.06,field moist
+III,J,III,3.37,3.37,0,air-dried
+III,J,III,3.16,3.13,0.02,field moist
+IV,H,III,4,2.54,1.45,air-dried
+V,D,III,1.54,0.8,0.74,field moist
+V,D,III,1.53,0.8,0.73,air-dried
+I,B,IV,6.51,4.79,1.72,air-dried
+I,B,IV,4.72,4.13,0.59,field moist
+II,C,IV,1.22,1.08,0.14,air-dried
+II,C,IV,0.92,1.39,0,field moist
+III,J,IV,2.99,3.38,0,air-dried
+III,J,IV,2.89,2.97,0,field moist
+IV,H,IV,7.51,2.01,5.5,air-dried
+V,D,IV,2.02,0.61,1.41,field moist
+V,D,IV,1.66,1.14,0.52,air-dried
+I,B,V,3.17,2.61,0.56,air-dried
+I,B,V,2.94,2.4,0.53,field moist
+II,C,V,1.34,1.32,0.03,air-dried
+II,C,V,1.16,1.14,0.03,field moist
+III,J,V,4.03,3.99,0.04,air-dried
+III,J,V,3.67,3.65,0.02,field moist
+IV,H,V,7.62,3.23,4.39,air-dried
+V,D,V,1.69,0.89,0.8,field moist
+V,D,V,1.53,0.73,0.8,air-dried
+I,B,VI,2.98,2.57,0.41,air-dried
+I,B,VI,3.06,2.66,0.4,field moist
+II,C,VI,1.24,1.24,0,air-dried
+II,C,VI,1.2,1.2,0,field moist
+III,J,VI,3.34,3.34,0,air-dried
+III,J,VI,3.32,3.32,0,field moist
+IV,H,VI,7.64,3.68,3.96,air-dried
+V,D,VI,1.52,1.46,0.06,field moist
+V,D,VI,1.52,0.74,0.78,air-dried
+I,B,VII,3.03,2.51,0.52,air-dried
+I,B,VII,3.45,2.51,0.94,field moist
+II,C,VII,1.31,1.31,0,air-dried
+II,C,VII,1.36,1.36,0,field moist
+III,J,VII,3.36,3.36,0,air-dried
+III,J,VII,3.21,3.21,0,field moist
+IV,H,VII,3.41,2.67,0.74,air-dried
+V,D,VII,1.57,1.05,0.52,field moist
+V,D,VII,1.71,1.18,0.53,air-dried
+I,B,VIII,4.08,3.4,0.68,air-dried
+I,B,VIII,4.05,3.02,1.03,field moist
+II,C,VIII,1.25,1.07,0.18,air-dried
+II,C,VIII,1.22,0.93,0.29,field moist
+III,J,VIII,3.25,2.97,0.28,air-dried
+III,J,VIII,3.78,3.61,0.17,field moist
+IV,H,VIII,7,2.04,4.96,air-dried
+V,D,VIII,1.59,0.4,1.19,field moist
+V,D,VIII,1.54,0.52,1.02,air-dried
